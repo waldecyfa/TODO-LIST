@@ -23,7 +23,7 @@
     "config": "^3.3.9",
     "consign": "^0.1.6",
     "cors": "^2.8.5",
-    "express": "^4.21.0",
+    "express": "^4.21.1",
     "sqlite-sync": "^0.3.9"
   },
   "engines": {
